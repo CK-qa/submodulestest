@@ -1,0 +1,3 @@
+[submodule "submodulesmodule"]
+	path = submodulesmodule
+	url = https://github.com/CK-qa/submodulesmodule.git
